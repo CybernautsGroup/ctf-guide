@@ -1,3 +1,4 @@
-# My Awesome Book
+# CTF - Stuff
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+I hope to add content here that is relevant for people doing CTFs. I am just gonna add stuff as I learn it.
+
