@@ -7,4 +7,5 @@
 * Scripting
 * Web
 * Misc
+* [Steganography](steganography.md)
 
