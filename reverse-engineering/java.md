@@ -23,13 +23,35 @@ We can use `strings`on the binary to output the strings in the file. We can use 
 
 
 
+### Disassemble With Javap
+
+Okay, so we have investigated the file with strings and maybe gotten a little clue of what it might do.
+
+` `javap file
+
+This will output name of classes, functions and variables. But it will not give us the content of functions and variables. But it is still very valuable to get a first understanding of what the binary might do.
+
+```
+javap -c file
+```
+
+Now this will output the function and the opcodes for each function.
+
+It is also useful to run it in verbose mode.
+
+```
+javap -verbose file
+```
+
 
 
 ### Java Bytecode Reference
+
+So java have its own bytecodes, it does not use the x86 bytecodes that we might be used to. So they have their own mnemonics. 
 
 
 
 Very handy to have:
 
-https://en.wikipedia.org/wiki/Java\_bytecode\_instruction\_listings
+[https://en.wikipedia.org/wiki/Java\_bytecode\_instruction\_listings](https://en.wikipedia.org/wiki/Java_bytecode_instruction_listings)
 
