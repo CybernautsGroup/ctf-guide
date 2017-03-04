@@ -1,16 +1,8 @@
 ## Reverse Engineering Java Program
 
-
-
 Bytecode is the compiled java-code that the Java Virtual Machine \(JVM\) executes.
 
-
-
-http://resources.infosecinstitute.com/java-bytecode-reverse-engineering/
-
-
-
-
+[http://resources.infosecinstitute.com/java-bytecode-reverse-engineering/](http://resources.infosecinstitute.com/java-bytecode-reverse-engineering/)
 
 ### Compile java code
 
@@ -32,4 +24,12 @@ We can use `strings`on the binary to output the strings in the file. We can use 
 
 
 
+
+### Java Bytecode Reference
+
+
+
+Very handy to have:
+
+https://en.wikipedia.org/wiki/Java\_bytecode\_instruction\_listings
 
