@@ -11,4 +11,5 @@
 * Misc
 * [Steganography](steganography.md)
   * [Images](steganography/images.md)
+* [Crypto](crypto.md)
 
