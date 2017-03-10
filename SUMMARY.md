@@ -6,6 +6,7 @@
 * [Reverse Engineering](reverse-engineering.md)
   * [Java](reverse-engineering/java.md)
 * Forensics
+  * [PDF](pdf.md)
 * Scripting
 * Web
 * Misc
