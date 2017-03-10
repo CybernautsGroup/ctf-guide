@@ -50,11 +50,11 @@ Here is a good explanation of who it works.
 
 [https://en.wikipedia.org/wiki/XOR\_cipher](https://en.wikipedia.org/wiki/XOR_cipher)
 
-
-
 ## Substitution cipher
 
-https://en.wikipedia.org/wiki/Substitution\_cipher
+[https://en.wikipedia.org/wiki/Substitution\_cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
+
+
 
 
 
