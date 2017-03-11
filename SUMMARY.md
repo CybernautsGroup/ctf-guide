@@ -8,7 +8,7 @@
 * Forensics
   * [PDF](pdf.md)
 * Scripting
-* Web
+* [Web](web.md)
 * Misc
 * [Steganography](steganography.md)
   * [Images](steganography/images.md)
