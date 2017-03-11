@@ -1,7 +1,5 @@
 # Web
 
-
-
 ## Scripting requests
 
 It is common in web-challenges that you need to script your requests. Python is good for that.
@@ -38,7 +36,12 @@ print req.status_code
 print req.text
 ```
 
+**Add an get action**
 
+```
+values = {'action' : 'whatever'}
+req = requests.get("http://site.com", data=values, headers=headers)
+```
 
 
 

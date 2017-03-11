@@ -7,6 +7,7 @@
   * [Java](reverse-engineering/java.md)
 * Forensics
   * [PDF](pdf.md)
+  * [Analyzing Packet Captures](analyzing-packet-captures.md)
 * Scripting
 * [Web](web.md)
 * Misc
