@@ -1,4 +1,6 @@
 # CTF - Stuff
 
-I hope to add content here that is relevant for people doing CTFs. I am just gonna add stuff as I learn it.
+A collaborative project run by Cybernauts around the world. We add stuff that we learn by doing CTF:s.
+
+The book is available to read from gitbook at this address: https://cybernautsgroup.gitbooks.io/ctf-guide/content/
 
