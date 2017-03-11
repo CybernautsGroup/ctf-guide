@@ -5,12 +5,12 @@
 * [Pwn](chapter1.md)
 * [Reverse Engineering](reverse-engineering.md)
   * [Java](reverse-engineering/java.md)
-* Forensics
+* [Forensics](forensics.md)
   * [PDF](pdf.md)
   * [Analyzing Packet Captures](analyzing-packet-captures.md)
-* Scripting
+* [Scripting](scripting.md)
 * [Web](web.md)
-* Misc
+* [Misc](misc.md)
 * [Steganography](steganography.md)
   * [Images](steganography/images.md)
 * [Crypto](crypto.md)
