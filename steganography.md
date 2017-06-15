@@ -14,13 +14,11 @@ The hidden information is injected into unused areas of a file. For example, com
 
 **Substitution**
 
-This is the most common method seen in CTFs. Information is substituted in place of existing data. The benefit of substitution steganography is that the file size remains the same. The most common substitution technique involves the Least Significant Bit method \(LSB\). In a graphic file, color codes usually use 8 bits, but the human eye can only distinguish between 6 bits of color information. The remaining 2 bits can be replaced with the hidden information with very little discernible difference. 
+This is the most common method seen in CTFs. Information is substituted in place of existing data. The benefit of substitution steganography is that the file size remains the same. The most common substitution technique involves the Least Significant Bit method \(LSB\). In a graphic file, color codes usually use 8 bits, but the human eye can only distinguish between 6 bits of color information. The remaining 2 bits can be replaced with the hidden information with very little discernible difference.
 
 **File Creation**
 
 There are many tools that can create a new file containing the hidden information. The secret input is actually used to create the output file, typically in the format of a fractal image or even readable text.
-
-
 
 **Tools**
 
@@ -30,9 +28,9 @@ Stegspose
 
 Image Steganography
 
+Hyden- Hide steganographic data in an executable
 
-
-
+Spammimic- Hide a message inside a spam email
 
 
 
